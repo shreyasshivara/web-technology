@@ -1,0 +1,86 @@
+body{
+    background-image: url("./nature.jpg");
+    background-repeat: no-repeat;
+
+}
+.paragraph{
+    color: blue;
+    
+}
+.container{
+    
+}
+.paragraph-container{
+   
+   border: 20px dotted  crimson;
+    height: 100px ;
+    
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+/* table,tr{
+    color: blue;
+    border: black;
+}
+table th{
+    color: red;
+}
+table,td {
+    color: blueviolet;
+} */
+/* *{
+    color: pink;
+} */
+.box1{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+    margin: 2px;
+    border-radius: 3px;
+    border: o.5px pink;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+  
+}
+.box2{
+    height: 50px;
+    width: 50px;
+      background-color: yellow;
+      margin: 2px;
+      border-radius: 3px;
+      border: o.5px solid red;
+      display: flex;
+      justify-content: center;
+    
+}
+.box3{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    margin: 2px;
+    border-radius: 3px;
+    border: o.5px pink;
+    display: flex;
+    justify-content: center;
+}
+.box4{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    margin: 2px;
+    border-radius: 3px;
+    border: o.5px pink;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+
+}
+
