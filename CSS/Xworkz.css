@@ -1,0 +1,125 @@
+/* .box{
+    transform: translate(100px,100px);
+    height: 250px;
+    width: 300px;
+    background-color: blueviolet;
+} */
+/* .image{
+    position: absolute;
+    height: 200px;
+    width: 200px; 
+    left: 250px;
+    opacity: 0.5;
+
+ } 
+.text{
+    position: relative;
+    bottom: 100px;
+    color: chocolate;
+   font-weight: 500px;
+   font-size: 50px;
+   top: 120px;
+   
+left: 250px; 
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 50px;
+    margin-left: 50px;
+    transform: rotate(45deg);
+    
+}
+.box2{
+    margin-left: 500px;
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    transform: scale(3,3);
+
+}
+.box3{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    transform: skew(45deg,5deg);
+    margin-left: 200px;
+    margin-top: 80px;
+}
+.box4{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    transform:rotate3d(20ded);
+    margin-left: 200px;
+    margin-top: 80px;
+
+} */
+ /* body{
+    transform: translate(30px,30px);
+    background-color: aliceblue;
+ }
+div{
+    width: 50px;
+    height: 50px;
+    background-color: chartreuse;
+    transition: width 4s, height 5s;
+    transition-delay: 2s;
+    
+    
+
+}
+div:hover{
+    width: 300px;
+    height: 300px;
+} */
+
+.box1{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    transition: width 3s;
+    transition-timing-function: ease;
+    margin-top: 25px;
+
+}
+.box1:hover{
+    width: 200px;
+}
+.box2{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    transition: width 3s;
+    transition-timing-function: ease-out;
+    margin-top: 25px;
+
+}
+.box2:hover{
+    width: 200px;
+}
+.box3{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    transition: width 3s;
+    transition-timing-function:ease-in;
+    margin-top: 25px;
+
+}
+.box3:hover{
+    width: 200px;
+}
+.box4{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin-top: 25px;
+
+}
+.box4:hover{
+    width: 200px;
+}

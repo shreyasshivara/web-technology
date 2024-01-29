@@ -1,0 +1,18 @@
+/* .Display{
+    display: inline;
+    border: 2px solid coral ;
+    background-color: cadetblue;
+
+}
+span{
+    width:40px ;
+    background-color: blueviolet;
+} */
+.Decoration{
+    /* text-decoration-line: line-through; */
+    text-decoration-line: underline;
+}
+.marquee{
+    font-size: 30px;
+    color: red;
+}
